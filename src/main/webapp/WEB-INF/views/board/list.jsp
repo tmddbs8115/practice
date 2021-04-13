@@ -9,7 +9,7 @@
 </head>
 <body>
 
-<table border = 2>
+<table border = 1>
 	<tr>
 		<th>글번호</th>	
 		<th>제목</th>	

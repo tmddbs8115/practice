@@ -5,7 +5,7 @@ PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
 <mapper namespace="org.ict.mapper.BoardMapper">
 
 <select id="list" resultType="org.ict.domain.BoardVO">
-select * from preboard where bno > 0
+select * from praboard where bno > 0
 </select>
 
 
